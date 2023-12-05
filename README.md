@@ -1,8 +1,8 @@
 # 💫About Me :
-👋 Hi, I’m @nartrung (Trung)
-👀 I’m interested everything about IT
-🌱 I’m currently studying at Can Tho University
-📫 Yoi can contact with me on Nartrung02@gmail.com
+- 👋 Hi, I’m @nartrung (Trung)
+- 👀 I’m interested everything about IT
+- 🌱 I’m currently studying at Can Tho University
+- 📫 Yoi can contact with me on Nartrung02@gmail.com
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nartrung) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@trung._.tran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nartrung02) 
